@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 master modified con
+=======
+news modified con
+>>>>>>> news
